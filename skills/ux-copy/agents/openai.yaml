@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Copy"
+  short_description: "Write clear, trustworthy interface copy"
+  default_prompt: "Use $ux-copy to improve the copy in this app flow."
