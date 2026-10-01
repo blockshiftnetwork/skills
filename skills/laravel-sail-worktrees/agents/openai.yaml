@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Sail Worktrees"
+  short_description: "Run git worktrees of a Sail app as isolated stacks"
+  default_prompt: "Use $laravel-sail-worktrees to spin up a worktree for this branch."
